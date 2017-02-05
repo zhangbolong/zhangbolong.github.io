@@ -1,0 +1,61 @@
+body {
+  margin-top: 50px;
+}
+
+li {
+  margin: 5px 0px 0px 0px;  
+}
+
+.main-body{
+  background-color: #DCDCDC;
+  margin-top: 60px;  
+}
+
+.headings{
+  font-family: "Roboto Slab", serif;
+  padding:30px 10px 30px 10px;
+}
+
+.img-showcase{
+  background-color: white;
+  padding: 15px 15px 5px 15px;
+  margin: 15px 15px 15px 15px;
+}
+
+.midway-pic{
+  max-height: 100%;
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.history-list{
+  font-family: "Roboto Slab", serif;
+  padding: 0px 20px 10px 10px;
+}
+
+.history-list-body{
+  font-size: 14px;
+}
+
+.final-emphasis{
+  width: 75%;
+  margin: auto;
+}
+
+.big-quote-mark{
+  font-size: 20px;
+}
+
+.final-emphasis-text{
+  font-size: 18px;
+  font-family: "Sahitya" , cursive;
+}
+
+.emphasis-by{
+  font-family: "Great Vibes", cursive;
+  font-size: 24px;
+}
+
+.last-words{
+  padding: 0px 10px 10px 30px;
+}
